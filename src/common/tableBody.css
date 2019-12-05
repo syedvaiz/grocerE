@@ -1,0 +1,17 @@
+.custom-row tr:hover {
+  background-color: rgb(255, 245, 245);
+}
+
+.custom-row td {
+  width: 10%;
+  height: auto;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .custom-row td {
+    font-size:55%;
+  }
+  .custom-row td{
+    width: 100%;
+  }
+}

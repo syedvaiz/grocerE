@@ -1,0 +1,41 @@
+#receipt-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  margin-bottom: 0;
+}
+#order-text {
+  color: #9a0000;
+  text-align: center;
+  font-size: 150%;
+}
+#purchase-text {
+  color: #9a0000;
+  text-align: center;
+  font-size: 150%;
+}
+#total-text {
+  color: #9a0000;
+  text-align: center;
+  font-size: 150%;
+}
+#order-num {
+  text-align: center;
+}
+#date {
+  text-align: center;
+}
+#total{
+  text-align: center;
+}
+#heading-text {
+  color: #9a0000;
+  text-align: center;
+}
+#backToShopButton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

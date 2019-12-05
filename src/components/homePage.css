@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker");
+
+.sales {
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
+  font-size: 50px;
+}
+
+.carousel img {
+  width: 1000px;
+  height: 600px;
+  transition: 0.05s ease-in-out left;
+}
+
+.carousel {
+  width: 1447px;
+  height: 580px;
+  margin-left: -172px;
+}
